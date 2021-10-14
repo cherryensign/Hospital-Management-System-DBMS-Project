@@ -4,7 +4,7 @@ This is a database management software for managing data / records in a Hospital
 This is a complete application software with Java used for the Front-end/ Application UI and SQL server used for Back-end/storage.
 For better explanation and screenshots refer the pdf!
 
-This project was developed by me alone for one of my curriculum subjects - Database Management Studies DBMS at Vellore Institute of Technology - Andhra Pradesh
+This project was developed by me alone for one of my curriculum subjects - Database Management System DBMS at Vellore Institute of Technology - Andhra Pradesh
 
 My student mail: mithilesh.19bce7309@vitap.ac.in
 
